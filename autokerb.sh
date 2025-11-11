@@ -46,4 +46,3 @@ CONF
 echo "[+] Wrote /etc/krb5.conf.d/$DOMAIN.conf"
 echo "[*] DOMAIN=$DOMAIN  REALM=$REALM"
 EOF
-chmod +x autokerb.sh
