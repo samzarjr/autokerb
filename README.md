@@ -1,2 +1,2 @@
-# autokerb
-./autokerb.sh IP
+# Example
+./autokerb.sh xx.xx.xx.xx
