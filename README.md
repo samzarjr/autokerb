@@ -1,2 +1,2 @@
 # autokerb
-autokerb.sh
+./autokerb.sh IP
