@@ -1,0 +1,2 @@
+# autokerb
+autokerb.sh
