@@ -47,6 +47,3 @@ echo "[+] Wrote /etc/krb5.conf.d/$DOMAIN.conf"
 echo "[*] DOMAIN=$DOMAIN  REALM=$REALM"
 EOF
 chmod +x autokerb.sh
-
-# Example
-./autokerb.sh 10.10.11.93
